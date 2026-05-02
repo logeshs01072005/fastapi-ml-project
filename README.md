@@ -41,6 +41,12 @@ uvicorn main:app --reload
 ### 3. Open browser
 http://127.0.0.1:8000/docs
 
+
+### 4. Live Demo
+
+Live Demo:
+https://fastapi-ml-project-f8np.onrender.com
+
 ---
 
 ## 📡 API Endpoint
@@ -53,5 +59,3 @@ Example input:
 }
 
 
-Live Demo:
-https://fastapi-ml-project-f8np.onrender.com
