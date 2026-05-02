@@ -51,3 +51,7 @@ Example input:
 {
   "input": [25, 50000, 2]
 }
+
+
+Live Demo:
+https://fastapi-ml-project-f8np.onrender.com
